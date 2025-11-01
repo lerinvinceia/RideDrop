@@ -29,8 +29,4 @@
 
 ---
 
-## Getting Started (local)
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/lerinvinceia/RideDrop.git
-   cd RideDrop
+
