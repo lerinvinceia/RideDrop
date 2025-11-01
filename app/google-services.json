@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "267177305232",
+    "firebase_url": "https://ridedrop-5040a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ridedrop-5040a",
+    "storage_bucket": "ridedrop-5040a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267177305232:android:3e6d0ebfe4f35b85772415",
+        "android_client_info": {
+          "package_name": "com.example.ridedrop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzihvvqlOMOz-QjQ-1z3dYASb9IyaMEZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

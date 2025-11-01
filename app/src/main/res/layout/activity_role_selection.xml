@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:background="@drawable/gradient_background_selection">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonUser"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="Choose User"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:background="@drawable/button_gradient_user"
+        android:textColor="@color/white"
+        app:cornerRadius="30dp"
+        android:elevation="8dp"
+        android:layout_marginBottom="24dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonDriver"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="Choose Driver"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:background="@drawable/button_gradient_driver"
+        android:textColor="@color/white"
+        app:cornerRadius="30dp"
+        android:elevation="8dp"/>
+
+</LinearLayout>
